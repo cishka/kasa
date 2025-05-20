@@ -1,0 +1,4 @@
+2 banana
+5 tomato
+4 kiwi
+5 xui
